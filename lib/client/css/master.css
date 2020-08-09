@@ -1,5 +1,7 @@
-canvas {
-    width: 800px;
-    height: 600px;
+#canvas {
     border: 5px solid black;
+}
+
+.customcursor {
+    /* cursor: none; */
 }
